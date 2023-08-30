@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "6UNbwwRp8sWf03YCNSZZAi",
+    "name" : "Admin_404",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Admin_404",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-08-30T18:44:12.856Z",
+  "objectRefs" : [ ]
+}
